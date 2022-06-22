@@ -1,0 +1,53 @@
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.jc-center{
+    justify-content: center;
+}
+
+.jc-sb{
+    justify-content: space-between;
+}
+
+.jc-sa{
+    justify-content: space-around;
+}
+
+.ai-center{
+    align-items: center;
+}
+
+.jc-end{
+    justify-content: end;
+}
+
+.box{
+    background-color: blue;
+    color: white;
+    height: 60px;
+    border: solid 1px;
+    text-align: center;
+    padding: 1rem;
+}
+
+.big{
+    height: 80px;
+}
+
+.center{
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Nested{
+    background-color: green;
+    color: rgb(0, 0, 0);
+    height: 30px;
+    border: solid 1px;
+    text-align: center;
+}
