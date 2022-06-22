@@ -1,0 +1,15 @@
+.box{
+    background-color: blue;
+    color: white;
+    height: 60px;
+    border: solid 1px;
+    text-align: center;
+}
+
+.Nested{
+    background-color: green;
+    color: rgb(0, 0, 0);
+    height: 30px;
+    border: solid 1px;
+    text-align: center;
+}
